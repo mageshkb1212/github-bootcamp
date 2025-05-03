@@ -1,3 +1,3 @@
-a=10
-b=10
-print(a+b)
+# add.py
+def add(a, b):
+    return a + b
